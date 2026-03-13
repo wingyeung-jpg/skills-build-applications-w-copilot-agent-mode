@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="50" height="50">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="95" fill="#0d6efd" stroke="#0b5ed7" stroke-width="2"/>
+  
+  <!-- Octopus body -->
+  <circle cx="100" cy="80" r="30" fill="#ffffff"/>
+  
+  <!-- Octopus eyes -->
+  <circle cx="90" cy="75" r="5" fill="#0d6efd"/>
+  <circle cx="110" cy="75" r="5" fill="#0d6efd"/>
+  
+  <!-- Octopus smile -->
+  <path d="M 90 85 Q 100 90 110 85" stroke="#0d6efd" stroke-width="2" fill="none" stroke-linecap="round"/>
+  
+  <!-- Arms with flex effect -->
+  <path d="M 75 105 Q 50 130 55 150" stroke="#0d6efd" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M 85 110 Q 60 145 70 165" stroke="#0d6efd" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M 100 115 Q 100 150 100 170" stroke="#0d6efd" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M 115 110 Q 140 145 130 165" stroke="#0d6efd" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M 125 105 Q 150 130 145 150" stroke="#0d6efd" stroke-width="4" fill="none" stroke-linecap="round"/>
+  
+  <!-- Dumbbell symbol (fitness) -->
+  <circle cx="100" cy="135" r="3" fill="#ff6b6b"/>
+  <rect x="98" y="133" width="4" height="4" fill="#ff6b6b"/>
+</svg>
